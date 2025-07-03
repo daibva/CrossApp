@@ -347,7 +347,7 @@ class ClashTranslations extends Translations {
           "Out of Data":"流量已用完",
           "Referral Rewards":"邀请赚钱",
           "Set Mtproto":"设为电报代理",
-          "Start test, please wait.":"开始测试,请稍后..."
+          "Start test, please wait.":"开始测试,请稍后.."
 
         }
       };
